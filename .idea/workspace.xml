@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="428c4170-3ee8-4eb3-9e7c-88a16ceb7b79" name="Default Changelist" comment="Textura">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\lucas.alves.pauletti\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SqtcZpezqSqRM4FdZX11m2XIZ0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/imagens" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas.alves.pauletti\Documents\Github\pong\src\imagens" />
+      <recent name="C:\Users\lucas.alves.pauletti\Documents\Github\pong\src\img" />
+      <recent name="C:\Users\lucas.alves.pauletti\Documents\Github\pong\src" />
+      <recent name="C:\Users\lucas.alves.pauletti\Documents\Github\pong\src\main\java\pong\textura" />
+      <recent name="C:\Users\lucas.alves.pauletti\Documents\Github\pong\src\main\java\pong\img" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cena" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas.alves.pauletti\Documents\Github\pong\src\imagens" />
+      <recent name="C:\Users\lucas.alves.pauletti\Documents\Github\pong\src\img" />
+      <recent name="C:\Users\lucas.alves.pauletti\Documents\Github\pong\src\main\java\pong\textura" />
+      <recent name="C:\Users\lucas.alves.pauletti\Desktop\pong\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Renderer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pong.Renderer" />
+      <module name="pong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Renderer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="428c4170-3ee8-4eb3-9e7c-88a16ceb7b79" name="Default Changelist" comment="" />
+      <created>1572303033852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572303033852</updated>
+      <workItem from="1572303036690" duration="4864000" />
+      <workItem from="1572307933027" duration="20000" />
+      <workItem from="1573084623219" duration="8623000" />
+      <workItem from="1573166183530" duration="1956000" />
+      <workItem from="1573333283975" duration="52000" />
+      <workItem from="1573333458837" duration="15149000" />
+      <workItem from="1573405143999" duration="25327000" />
+      <workItem from="1573509922005" duration="3447000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fase 2">
+      <created>1573414492481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573414492481</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Instruções">
+      <created>1573422369271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573422369271</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Textura">
+      <created>1573425037724</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573425037724</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Efeito no coração">
+      <created>1573429581016</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573429581024</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Textura">
+      <created>1573442148197</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573442148197</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Fase 2" />
+    <MESSAGE value="Instruções" />
+    <MESSAGE value="Efeito no coração" />
+    <MESSAGE value="Textura" />
+    <option name="LAST_COMMIT_MESSAGE" value="Textura" />
+  </component>
+</project>
